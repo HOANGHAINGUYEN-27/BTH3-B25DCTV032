@@ -1,0 +1,29 @@
+# Sổ chi tiêu cá nhân
+
+Họ tên:Nguyễn Hoàng Hải
+
+Mã sinh viên: B25DCTV032
+
+## Cách chạy
+
+Cài Node.js rồi mở Terminal trong thư mục này.
+
+Phần A - Class Component:
+
+```bash
+cd phan-a
+npm install
+npm run dev
+```
+
+Phần B - Function Component + Hooks: mở một Terminal khác trong thư mục này rồi chạy:
+
+```bash
+cd phan-b
+npm install
+npm run dev
+```
+
+Mở đường dẫn hiện trong từng Terminal để xem chương trình.
+
+Nhấn Ctrl + C trong Terminal để dừng chương trình.
